@@ -1,3 +1,6 @@
+
+require(tidyverse)
+
 dados_eletronicos <- function(){
 
   sample(1:6, size = 2, replace = T)
